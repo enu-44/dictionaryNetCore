@@ -1,0 +1,13 @@
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.exe
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.deps.json
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.runtimeconfig.json
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.runtimeconfig.dev.json
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.dll
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\FED.pdb
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.csprojAssemblyReference.cache
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.AssemblyInfoInputs.cache
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.AssemblyInfo.cs
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.dll
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.pdb
+D:\Enuar\FED\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Enuar\FED\obj\Debug\netcoreapp3.1\FED.csproj.CopyComplete
